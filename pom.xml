@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.seidengarn</groupId>
 	<artifactId>json</artifactId>
-	<name>${project.artifactId}</name>
+	<name>json</name>
 	<version>1.0-SNAPSHOT</version>
 	<description>A simple parser for JSON-String processing</description>
 	<url>https://github.com/rasei/json</url>
@@ -96,11 +96,6 @@
 		</plugins>
 	</build>
 	<dependencies>
-		<dependency>
-			<groupId>commons-lang</groupId>
-			<artifactId>commons-lang</artifactId>
-			<version>2.6</version>
-		</dependency>
 
 		<dependency>
 			<groupId>junit</groupId>
