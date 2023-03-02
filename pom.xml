@@ -4,7 +4,7 @@
 	<groupId>net.seidengarn</groupId>
 	<artifactId>json</artifactId>
 	<name>json</name>
-	<version>1.1</version>
+	<version>1.2-SNAPSHOT</version>
 	<description>A simple parser for JSON-String processing</description>
 	<url>https://github.com/rasei/json</url>
 	<licenses>
@@ -107,6 +107,6 @@
 		<connection>scm:git:git@github.com:rasei/json.git</connection>
 		<developerConnection>scm:git:git@github.com:rasei/json.git</developerConnection>
 		<url>git@github.com:rasei/json.git</url>
-	  <tag>json-1.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 </project>
